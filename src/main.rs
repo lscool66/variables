@@ -4,10 +4,10 @@ fn main() {
 
     // println!("Hello, world!");
 
-    // let x = 5;
+    let x = 5;
     // let x = x + 1;
     // let x = x * 2;
-    // println!("The value of x is: {}", x);
+    println!("The value of x is: {}", x);
 
     // let spaces = "      ";
     // let spaces = spaces.len();
@@ -23,21 +23,21 @@ fn main() {
     // println!("{}, {}, {}", x, y, z);
     // println!("{}, {}, {}", tup.0, tup.1, tup.2);
 
-    let months = [
-        "January",
-        "February",
-        "March",
-        "April",
-        "May",
-        "June",
-        "July",
-        "August",
-        "September",
-        "October",
-        "November",
-        "December",
-    ];
-    let index = 11;
-    println!("{}", months[index]);
+    // let months = [
+    //     "January",
+    //     "February",
+    //     "March",
+    //     "April",
+    //     "May",
+    //     "June",
+    //     "July",
+    //     "August",
+    //     "September",
+    //     "October",
+    //     "November",
+    //     "December",
+    // ];
+    // let index = 11;
+    // println!("{}", months[index]);
     // let a = [3; 5];
 }
